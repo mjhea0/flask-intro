@@ -1,9 +1,9 @@
-flask-intro
+Introduction to Flask
 ===========
 
-Introduction to Flask showing much of the basic functionality. Plus, I built a task manager application called FlaskTaskr.
+ask is a lightweight, micro web development framework for Python. Compared to the higher-level frameworks, it’s much more flexible and, best of all, it doesn’t get in your way as you’re building out you’re web site. You can add complexity as your application grows. It’s great for beginners who want to better understand the shortcuts that larger, high-level web frameworks employ.
 
-
+What’s more, for those learning Python web development, Flask provides a perfect transition as you move from the basics of CGI-programming to modern web development. You can learn on the go by adding more complicated components as you gain the skills. You can even start out by writing everything in a single .py file, which is great for simple static sites - but once you start scaling you’ll want to split the scripts up and employ more of a MVC-style of development.
 
 Contents
 --------
@@ -18,9 +18,8 @@ Contents
 [Video](http://www.youtube.com/watch?v=BkdVq9ag7aw)
 5. Part 5 - Deploying to PythonAnywhere [Tutorial](http://www.realpythonfortheweb.com/blog/2013/01/31/introduction-to-flask-deploying/) /
 [Video](http://www.youtube.com/watch?v=M4sxSoRZLtI)
-6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpythonfortheweb.com/blog/2013/01/31/introduction-to-flask-web-app/) /
+6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpythonfortheweb.com/blog/2013/02/06/introduction-to-flask-web-app/) /
 [Video](http://youtu.be/Z86QxnU9BMM)
-
 
 To-do
 -----
