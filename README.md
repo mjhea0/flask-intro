@@ -25,5 +25,5 @@ Contents
 To-do
 -----
 
--Better organize code
--Add new tutorials
+- Better organize code
+- Add new tutorials
