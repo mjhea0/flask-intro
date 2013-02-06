@@ -1,0 +1,11 @@
+{% extends "template.html" %}
+{% block content %}
+    <h2>Welcome! You are now logged in.</h2>
+    <a href="/logout">Logout</a>
+    <br />
+    <br />
+    <h3>Sales Data - Region 1:</h3>
+    {% for item in sales %}
+    {{ item.rep_name }} | {{ item.amount }} <br \>
+{% endfor %}
+{% endblock %}
