@@ -18,11 +18,12 @@ Contents
 [Video](http://www.youtube.com/watch?v=BkdVq9ag7aw)
 5. Part 5 - Deploying to PythonAnywhere [Tutorial](http://www.realpythonfortheweb.com/blog/2013/01/31/introduction-to-flask-deploying/) /
 [Video](http://www.youtube.com/watch?v=M4sxSoRZLtI)
-6. Part 6 - Task Management Application (FlaskTaskr) [Tutorial](http://www.realpythonfortheweb.com/blog/2013/01/31/introduction-to-flask-web-app/) /
+6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpythonfortheweb.com/blog/2013/01/31/introduction-to-flask-web-app/) /
 [Video](http://youtu.be/Z86QxnU9BMM)
 
 
 To-do
 -----
 
-Better organize code
+-Better organize code
+-Add new tutorials
