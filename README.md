@@ -10,13 +10,13 @@ Contents
 
 1. Part 1 - Setting Up a Static Site: [Tutorial](http://www.realpython.com/?p=578) / 
 [Video](http://www.youtube.com/watch?v=VsuArvWwuDI)
-2. Part 2 - Creating a Login Page: [Tutorial](hhttp://www.realpython.com/?p=605) /
+2. Part 2 - Creating a Login Page: [Tutorial](http://www.realpython.com/?p=605) /
 [Video](http://www.youtube.com/watch?v=Z7fyAxdL7Uc)
-3. Part 3 - Sessions, Login_required Decorator, Debugging: [Tutorial](hhttp://www.realpython.com/?p=608) /
+3. Part 3 - Sessions, Login_required Decorator, Debugging: [Tutorial](http://www.realpython.com/?p=608) /
 [Video](http://www.youtube.com/watch?v=WCpNvteLCDI)
 4. Part 4 - Databases: [Tutorial](http://www.realpython.com/?p=610/) /
 [Video](http://www.youtube.com/watch?v=BkdVq9ag7aw)
-5. Part 5 - Deploying to PythonAnywhere [Tutorial](hhttp://www.realpython.com/?p=613) /
+5. Part 5 - Deploying to PythonAnywhere [Tutorial](http://www.realpython.com/?p=613) /
 [Video](http://www.youtube.com/watch?v=M4sxSoRZLtI)
 6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpython.com/?p=618) /
 [Video](http://youtu.be/Z86QxnU9BMM)
