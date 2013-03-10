@@ -18,7 +18,7 @@ Contents
 [Video](http://www.youtube.com/watch?v=BkdVq9ag7aw)
 5. Part 5 - Deploying to PythonAnywhere [Tutorial](http://www.realpython.com/?p=613) /
 [Video](http://www.youtube.com/watch?v=M4sxSoRZLtI)
-6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpython.com/?p=618) /
+6. Part 6 - Task Management Application (FlaskTaskr): [Tutorial](http://www.realpython.com/?p=615) /
 [Video](http://youtu.be/Z86QxnU9BMM)
 
 To-do
